@@ -1,4 +1,4 @@
-baseURL = "/midu.dev"
+baseURL = "/"
 languageCode = "es-ES"
 title = "midudev 👨‍💻 | Frontend, Javascript, React, CSS, Performance"
 
